@@ -4,7 +4,7 @@ The RULEC-GEC dataset is a dataset of sentences written by learners of Russian a
 
 # Obtaining the Annotated Data
 
-Please fill out the User Agreement for the RULEC corpus and email to to arozovskaya@qc.cuny.edu. The RULEC-GEC corpus will be sent to you. 
+Please fill out the [User Agreement for the RULEC corpus] (https://github.com/arozovskaya/RULEC-GEC/blob/master/RULEC%20User%20Agreement%20copy.doc) and email it to arozovskaya@qc.cuny.edu. The RULEC-GEC corpus will be sent to you. 
 
 # Overview 
 

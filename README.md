@@ -76,19 +76,20 @@ year =     {2012},
 ```
 
 ## Citation 
-
+```
 If you use the RULEC-GEC dataset in any published research, please cite:
 
 Alla Rozovskaya and Dan Roth. 2018.
 Grammar Error Correction in Morphologically-Rich Languages: The Case of Russian.
 In Transactions of ACL.
+```
 
 ## References 
+```
 Hwee Tou Ng, Siew Mei Wu, Ted Briscoe, Christian Hadiwinoto, Raymond Hendy Susanto, and Christopher Bryant. 2014. 
-
 The CoNLL-2014 shared task on grammatical error correction. 
-
 In Proceedings of CoNLL: Shared Task.
+```
 
 ## License 
 
